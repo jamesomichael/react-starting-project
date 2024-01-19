@@ -1,3 +1,5 @@
+import './CoreConcept.css';
+
 const CoreConcept = (props) => {
 	const { title, description, image } = props;
 	return (
